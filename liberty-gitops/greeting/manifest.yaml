@@ -16,7 +16,7 @@ metadata:
     app: greeting
   name: greeting
 spec:
-  applicationImage: quay.io/client-engineering-cee/whe/greeting-wl:ja
+  applicationImage: quay.io/client-engineering-cee/whe/greeting-wl:ty
   createKnativeService: false
   env:
   - name: GREETINGS
